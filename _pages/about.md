@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.jnu.ac.in/main/'>JNU</a>. Linguist. Researcher. Teacher.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>First Floor</p>
+    <p>43/8/L Jheel Road</p>
+    <p>Kolkata – 700031, India</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a linguist fascinated by sentence structure and meaning and how these are generated in the human mind-brain, particularly in the mind-brain of infants and children. I look at what children's journey towards adult language tells us about the uniquely human capacity for language and its intersection with general cognitive capacities. I am also interested in how the linguist's understanding of the way children learn language structure in their early years can be harnessed to build language tools and games for the elementary language classroom. The documentation and archiving of lesser-known and endangered languages is another area of language studies that I am deeply passionate about. The languages I usually draw insights from are ones spoken in a very linguistically diverse part of the world — the South Asian subcontinent. Most are either undocumented, or underrepresented in experimental and applied linguistics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also an advocate for the rights of research students and early career researchers, supporting fair and timely wage disbursal, conducive research and work environments, and access to free healthcare, particularly mental healthcare. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This website will eventually have a collection of Creative Commons licensed experimental material for collecting child language data from South Asian languages, games for low-resource elementary language classrooms, and a couple of my squibs, articles and book reviews. 
