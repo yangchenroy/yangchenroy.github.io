@@ -2,16 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.jnu.ac.in/main/'>JNU</a>. Linguist. Researcher. Teacher.
+subtitle: Linguist. Researcher. Teacher.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>First Floor</p>
-    <p>43/8/L Jheel Road</p>
-    <p>Kolkata – 700031, India</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
