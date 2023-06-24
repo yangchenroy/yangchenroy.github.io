@@ -20,3 +20,5 @@ I am a linguist fascinated by sentence structure and meaning and how these are g
 I am also an advocate for the rights of research students and early career researchers, supporting fair and timely wage disbursal, conducive research and work environments, and access to free healthcare, particularly mental healthcare. 
 
 This website will eventually have a collection of Creative Commons licensed experimental material for collecting child language data from South Asian languages, games for low-resource elementary language classrooms, and a couple of my squibs, articles and book reviews.
+
+Please find my CV [here](/assets/pdf/yr_cv.pdf). 
