@@ -21,4 +21,4 @@ I am also an advocate for the rights of research students and early career resea
 
 This website will eventually have a collection of Creative Commons licensed experimental material for collecting child language data from South Asian languages, games for low-resource elementary language classrooms, and a couple of my squibs, articles and book reviews.
 
-Please find my CV [here](/assets/pdf/yr_cv.pdf). 
+Please find my CV [here](https://drive.google.com/file/d/1Znj3qhc1w_niFpwXmWOGYt1qsXAKt4cF/view?usp=drivesdk). 
