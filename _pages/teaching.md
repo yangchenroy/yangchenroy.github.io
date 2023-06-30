@@ -8,8 +8,7 @@ nav_order: 5
 ---
 
 #### Course Name: Phonology 
-[Level: Masters]  
-(Co-taught online with Rahul Mhaiskar and Pramod K. Pandey)  
+[Level: Masters] (Co-taught online with Rahul Mhaiskar and Pramod K. Pandey)  
 
 Winter Semester 2022, Deccan College Post-Graduate and Research Institute  
 
@@ -23,7 +22,8 @@ Please find the teaching material used by me:
 | Unit 5: Post-SPE Linear Models  	| [Slides](https://drive.google.com/file/d/1D1OCsxSfrsftC2GrhCX-TElQucY7So3Q/view?usp=drivesdk)  	|  
 
 
-
+  
+  
 #### Introduction to Linguistics 
 [Level: Undergraduate]
 [Co-taught online with Shivani Banerjee and Aseema Karandikar]  
