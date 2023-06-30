@@ -24,12 +24,12 @@ Please find the teaching material used by me:
 
   
   
-  
+
 
 
 #### Introduction to Linguistics 
 [Level: Undergraduate]
-[Co-taught online with Shivani Banerjee and Aseema Karandikar]  
+(Co-taught online with Shivani Banerjee and Aseema Karandikar)  
 
 
 Monsoon Semester 2020, Jawaharlal Nehru University  
@@ -50,7 +50,7 @@ You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGss
 
 #### Growing Language: A workshop on language acquisition research from a generative perspective 
 [Level: Masters and Research] 
-[Co-taught with Benu Pareek]  
+(Co-taught with Benu Pareek)  
 
 Centre for Linguistics, Jawaharlal Nehru University   
 
