@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+You can find my teaching statement here: [Teaching Statement](https://drive.google.com/file/d/1cLaPlspNXe7TpMvG_akUI_7mxt3NeKsc/view?usp=sharing)
+
+<br/>
+<br/>
+
 #### Course Name: Phonology 
 [Level: Masters] (Co-taught online with Rahul Mhaiskar and Pramod K. Pandey)  
 
@@ -22,9 +27,9 @@ Please find the teaching material used by me:
 | Unit 5: Post-SPE Linear Models  	| [Slides](https://drive.google.com/file/d/1D1OCsxSfrsftC2GrhCX-TElQucY7So3Q/view?usp=drivesdk)  	|  
 
 
+<br/>
+<br/>
   
-  
-
 
 
 #### Introduction to Linguistics 
@@ -45,7 +50,8 @@ Please find the teaching material used by me:
 
 You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGssEyX7mmfz1AFJtCAnIy/view?usp=drivesdk).  
 
-
+<br/>
+<br/>
 
 
 #### Growing Language: A workshop on language acquisition research from a generative perspective 

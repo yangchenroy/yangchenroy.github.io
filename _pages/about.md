@@ -21,4 +21,6 @@ I am also an advocate for the rights of research students and early career resea
 
 This website will eventually have a collection of Creative Commons licensed experimental material for collecting child language data from South Asian languages, games for low-resource elementary language classrooms, and a couple of my squibs, articles and book reviews.
 
-Please find my CV [here](https://drive.google.com/file/d/1Znj3qhc1w_niFpwXmWOGYt1qsXAKt4cF/view?usp=drivesdk). 
+Please find my CV [here](https://drive.google.com/file/d/1SUO-KAgMqc5wJrjMx5o0olbF5rmS232T/view?usp=sharing). 
+
+NOTICE: I am looking for post-doc position Linguistics, please write to me if you find my work interesting. You can find my Research Statement [here](https://drive.google.com/file/d/1n_J8XarC735B9smwsDbPHI5MKipIHKmO/view?usp=sharing). And abstract for my Phd thesis [here](https://drive.google.com/file/d/1Hof8gjrPzn2_NEvG1B5-FB0CHwrKFl5o/view?usp=sharing).
