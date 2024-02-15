@@ -19,4 +19,4 @@ I am a linguist fascinated by sentence structure and meaning and how these are g
 
 I am also an advocate for the rights of early career researchers, supporting fair and timely wage disbursal, conducive research and work environments, and access to affordable healthcare, particularly mental healthcare.
 
-My academic CV can be found [here](https://drive.google.com/file/d/1SUO-KAgMqc5wJrjMx5o0olbF5rmS232T/view?usp=sharing). For more on my research, see my latest search statement [here](https://drive.google.com/file/d/1n_J8XarC735B9smwsDbPHI5MKipIHKmO/view?usp=sharing), and the abstract of my PhD dissertation [here](https://drive.google.com/file/d/1Hof8gjrPzn2_NEvG1B5-FB0CHwrKFl5o/view?usp=sharing).
+My academic CV can be found [here](https://drive.google.com/file/d/1SUO-KAgMqc5wJrjMx5o0olbF5rmS232T/view?usp=sharing). For more on my research, see my latest research statement [here](https://drive.google.com/file/d/1n_J8XarC735B9smwsDbPHI5MKipIHKmO/view?usp=sharing), and the abstract of my Ph.D. dissertation [here](https://drive.google.com/file/d/1Hof8gjrPzn2_NEvG1B5-FB0CHwrKFl5o/view?usp=sharing).
