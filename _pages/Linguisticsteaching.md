@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-My teaching statement is [here](https://drive.google.com/file/d/1cLaPlspNXe7TpMvG_akUI_7mxt3NeKsc/view?usp=sharing)
+
 
 #### Morphology & Syntax 
 [Level: Masters] (Co-taught with Rahul Mhaiskar)  
