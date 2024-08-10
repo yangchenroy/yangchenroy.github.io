@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /ELT/
-title: ELT
+title: English Language Teaching
 description: 
 nav: true
 nav_order: 5
