@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Select talks
+title: talks
 description: 
 nav: true
 nav_order: 5
@@ -18,7 +18,7 @@ Roy, Y. On the Acquisition of the Anaphoric Possessive DP: Insights from Bangla.
 
 
 
-**Refereed Talks **
+**SElect refereed talks **
 
 Roy, Y. The delay in Bangla polite pronoun acquisition as evidence for a nominal periphery and peripheral features. The 2nd workshop on Charting Honorific and Addressee Morphosyntactic Processes. University of Gottingen. February 2024. [[slides]](https://drive.google.com/file/d/1vDGAIDrGvGfD-9aSuKpJC0jyDy11fuB2/view?usp=sharing).
 
