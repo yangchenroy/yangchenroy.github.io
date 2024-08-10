@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>English language teaching | Yangchen  Roy</title>
+    <title>ELT | Yangchen  Roy</title>
     <meta name="author" content="Yangchen  Roy" />
     <meta name="description" content="Yangchen's personal website.
 " />
@@ -78,7 +78,7 @@
 
               <!-- Other pages -->
               <li class="nav-item active">
-                <a class="nav-link" href="/ELT/">English language teaching<span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="/ELT/">ELT<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/talks/">talks</a>
@@ -107,7 +107,7 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">English language teaching</h1>
+            <h1 class="post-title">ELT</h1>
             <p class="post-description"></p>
           </header>
 
