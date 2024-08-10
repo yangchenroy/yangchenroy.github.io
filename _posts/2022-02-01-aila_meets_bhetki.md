@@ -6,10 +6,9 @@ description: I write about my Bangla-Malayali-English childhood and how it came 
 tag: India
 ---
 
-NOTE: The post was originally made for the digital newspaper "times of amma". Which is not functional anymore. You can find the webpage on the wayback machine [here](https://web.archive.org/web/20201127105844/https://www.timesofamma.com/single-post/unity-in-diversity-special-the-one-where-aila-meets-bhetki). Following is a copy of the post. 
+NOTE: This piece was originally written for the digital newspaper _Times of Amma_, which is not functional anymore. You can find the webpage on the wayback machine [here](https://web.archive.org/web/20201127105844/https://www.timesofamma.com/single-post/unity-in-diversity-special-the-one-where-aila-meets-bhetki). The following is a copy of the post. 
 
 Date: 15th August, 2018
-
 
 One of my earliest childhood memories is of mixing sambar with hot rice and eating it with a side of aloo bhaja (Bengali-style potato fritters). Sambar and aloo bhaja, even to this day, is a favourite of mine. Ours is a family bringing together the East and South of India, and this is best exemplified at meal times. In fact, the sambars in our house have flirted with dishes no other sambar may ever have dared go near. And this is true of most meals: Aila (mackeral), cooked in a mango and coconut gravy (a dish from Kerala) is often in happy brotherhood with Bhetki (barramundi) steamed in a bath of mustard paste (a delicacy in Bengal), at our dining table. How our meals ended up this way is a not so long story. 
 
