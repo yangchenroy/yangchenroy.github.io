@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-This page has material developed by me at the Language Learning Centre at IIT Delhi to teach English as a second language.. 
+This page has material developed by me at the Language Learning Centre at IIT Delhi to teach English as a second language.
 
 Listening and Writing Skills II
 [Level: undergraduate] 
