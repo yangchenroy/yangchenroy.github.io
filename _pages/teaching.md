@@ -19,7 +19,7 @@ Monsoon semester 2023, Deccan College Post-Graduate and Research Institute
 | Lecture 1: Introduction to Syntax 	| [slides](https://drive.google.com/file/d/1-koqjhBaLHzo7qmr53P6frMjARuj-4cW/view?usp=drive_link)  	|
 | Lectures 2 & 3: Preliminaries 	| slides from Andrew Carnie's 2006 textbook	|
 | Lectures 4, 5 & 6: Grammatical classes 	| [slides](https://drive.google.com/file/d/10r0vUfz3brgnyFEutCOAsTtY2TA6C3e0/view?usp=drive_link)  	|
-| Lecture 7 : Constructions & Constituents  I	| [slides from Andrew Carnie's 2006 textbook  	| 
+| Lecture 7 : Constructions & Constituents  I	| slides from Andrew Carnie's 2006 textbook  	| 
 | Lectures 8 to 12 : Constructions & Constituents II 	| [slides](https://drive.google.com/file/d/10YBYJ5kgMa2ZYBkMVSuGekVXFtGMmCzR/view?usp=drive_link)  	| 
 | Lecture 13 : The morphology and syntax interface 	| [slides](https://drive.google.com/file/d/1-j96PcMmIij4iaJjBJfzi5uhiuAxL6ky/view?usp=drive_link)  	| 
 
