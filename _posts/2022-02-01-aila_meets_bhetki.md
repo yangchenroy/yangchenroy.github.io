@@ -19,7 +19,7 @@ In 1991, a young Bengali woman, fresh out of university, got a job as a junior h
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/alia_bhetki_1.jpg" class="img-fluid rounded z-depth-1">
+        <img src="/assets/img/alia_bhetki_1.jpg" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 
@@ -40,6 +40,6 @@ Twenty-Five years later, our home is a harmonious melting pot of both heritages.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/alia_bhetki_3.jpg" class="img-fluid rounded z-depth-1">
+        <img src="/assets/img/alia_bhetki_3.jpg" class="img-fluid rounded z-depth-1">
     </div>
 </div>
