@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /ELT/
-title: English Language Teaching
+permalink: /English Language Teaching/
+title: ELT
 description: 
 nav: true
 nav_order: 5
