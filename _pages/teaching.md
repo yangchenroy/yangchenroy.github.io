@@ -49,23 +49,23 @@ Winter semester 2022, Deccan College Post-Graduate and Research Institute
 
 Monsoon semester 2020, Jawaharlal Nehru University  
 
+You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGssEyX7mmfz1AFJtCAnIy/view?usp=drivesdk).
+
 |  Topics 	|  Teaching Material 	|
 |---	|---	|
 | Module 1: Language – The most human thing about us  	| [slides](https://drive.google.com/file/d/1o-HNheFWdJO1SwOtOrG6jnvfolS5um6n/view?usp=drivesdk)   	|
 | Module 3: Syntax (Parts I, II and III)   	| [slides](https://drive.google.com/file/d/1eegGmaGyVJDNhZuQsiwk1irKEwiiYPhr/view?usp=drivesdk)   	|
 | Module 5: Language Acquisition  	| [slides](https://drive.google.com/file/d/197M1zXhsSRmJXuw8LsVQe6V6hFxN6VoX/view?usp=drivesdk)   	|
-| Module 7: Language and the Human Brain   	| [slides](https://drive.google.com/file/d/1LJbyVRTvCP_W4abJWqy368a9GILq3Z9z/view?usp=drivesdk)  	|
-
-You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGssEyX7mmfz1AFJtCAnIy/view?usp=drivesdk).  
+| Module 7: Language and the Human Brain   	| [slides](https://drive.google.com/file/d/1LJbyVRTvCP_W4abJWqy368a9GILq3Z9z/view?usp=drivesdk)  	|  
 
 <br/>
 <br/>
 
 
 #### Growing Language: A workshop on language acquisition research from a generative perspective 
-[Level: Masters and Research] 
+[Level: Masters and PhD] 
 (Co-taught with Benu Pareek)  
 
 Winter semester 2020, Centre for Linguistics, Jawaharlal Nehru University   
 
-You can find the handout [here](https://drive.google.com/file/d/1oQkZQmjuB18j-CaccfUp73zILwN2SNKg/view?usp=drivesdk).
+The workshop handout is [here](https://drive.google.com/file/d/1oQkZQmjuB18j-CaccfUp73zILwN2SNKg/view?usp=drivesdk).
