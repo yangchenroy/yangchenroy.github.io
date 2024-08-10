@@ -10,7 +10,6 @@ nav_order: 5
 My teaching statement is [here](https://drive.google.com/file/d/1cLaPlspNXe7TpMvG_akUI_7mxt3NeKsc/view?usp=sharing)
 
 <br/>
-<br/>
 
 #### Phonology 
 [Level: Masters] (Co-taught with Rahul Mhaiskar and Pramod K. Pandey)  
