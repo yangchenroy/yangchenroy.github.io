@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /Linguistics Teaching/
+title: Linguistics Teaching
 description: 
 nav: true
 nav_order: 5
