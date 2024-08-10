@@ -2,22 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses I have taught.
+description: Teaching material
 nav: true
 nav_order: 5
 ---
 
-You can find my teaching statement here: [Teaching Statement](https://drive.google.com/file/d/1cLaPlspNXe7TpMvG_akUI_7mxt3NeKsc/view?usp=sharing)
+My teaching statement is [here](https://drive.google.com/file/d/1cLaPlspNXe7TpMvG_akUI_7mxt3NeKsc/view?usp=sharing)
 
 <br/>
 <br/>
 
-#### Course Name: Phonology 
-[Level: Masters] (Co-taught online with Rahul Mhaiskar and Pramod K. Pandey)  
+#### Phonology 
+[Level: Masters] (Co-taught with Rahul Mhaiskar and Pramod K. Pandey)  
 
-Winter Semester 2022, Deccan College Post-Graduate and Research Institute  
-
-Please find the teaching material used by me: 
+Winter semester 2022, Deccan College Post-Graduate and Research Institute  
 
 | Topics 	| Teaching Material 	|
 |---	|---	|
@@ -34,12 +32,9 @@ Please find the teaching material used by me:
 
 #### Introduction to Linguistics 
 [Level: Undergraduate]
-(Co-taught online with Shivani Banerjee and Aseema Karandikar)  
+(Co-taught with Shivani Banerjee and Aseema Karandikar)  
 
-
-Monsoon Semester 2020, Jawaharlal Nehru University  
-Please find the teaching material used by me: 
-
+Monsoon semester 2020, Jawaharlal Nehru University  
 
 |  Topics 	|  Teaching Material 	|
 |---	|---	|
@@ -58,6 +53,6 @@ You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGss
 [Level: Masters and Research] 
 (Co-taught with Benu Pareek)  
 
-Centre for Linguistics, Jawaharlal Nehru University   
+Winter semester 2020, Centre for Linguistics, Jawaharlal Nehru University   
 
 You can find the handout [here](https://drive.google.com/file/d/1oQkZQmjuB18j-CaccfUp73zILwN2SNKg/view?usp=drivesdk).
