@@ -29,11 +29,9 @@ I have often asked my parents how they were so sure of marrying each other. Afte
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="assets/img/alia_bhetki_2.jpg" class="img-fluid rounded z-depth-1">
+        <img src="/assets/img/alia_bhetki_2.jpg" class="img-fluid rounded z-depth-1">
     </div>
 </div>
-
-![alt text](assets/img/alia_bhetki_2.jpg "Title")
 
 
 
