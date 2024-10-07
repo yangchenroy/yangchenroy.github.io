@@ -27,9 +27,17 @@ Winter semester 2024, Indian Institute of Technology Delhi
 | Lecture 9: Identifying cohesion and coherence in writing - I | [handout](https://drive.google.com/file/d/11dDPhKzD9Qyf-KAwS1RMpXmipo1vJqdO/view?usp=drive_link)  	|
 | Lecture 10 (Type 1): Critical reading with "Lamb to the slaughter"	| [handout](https://drive.google.com/file/d/11fACBNzitCLK0SBFdDp_HyPsvd-co01Y/view?usp=drive_link)  	|
 | Lecture 10 (Type 2): Critical reading with "What is math?"	| [handout](https://drive.google.com/file/d/11gx79yPeWUzHtjWXHuug3LLMlpgVwlT8/view?usp=drive_link)  	|
-| Lecture 11: Profing a group contesting elections	| [handout](https://drive.google.com/file/d/11hsguImPplq2dM_9sJo5am2NUT8X4Daa/view?usp=drive_link)  	|
+| Lecture 11: Profiling a group contesting elections	| [handout](https://drive.google.com/file/d/11hsguImPplq2dM_9sJo5am2NUT8X4Daa/view?usp=drive_link)  	|
 
 <br/>
 <br/>
+
+
+Monsoon semester 2024, Indian Institute of Technology Delhi  
+
+| Topics 	| Teaching Material |
+|---	|---	|
+| Lecture 05 (Type 1): English articles: Their distribution and function	| [handout](https://drive.google.com/file/d/1-2yyyayPO1GEC6LXnhAvWpXrV5XiUG__/view?usp=sharing)  	|
+
 
 
