@@ -19,4 +19,4 @@ I am a linguist fascinated by sentence structure and meaning and how these are g
 
 The languages I usually draw insights from are ones spoken in a highly linguistically diverse part of the world — the South Asian subcontinent. Most are either undocumented, or understudied in experimental and applied linguistics.
 
-My academic CV can be found [here](assets/pdf/YR_CV_General_2025_June.pdf). For more on my research, see [my latest research statement](assets/homepage/RS_2024_Feb.pdf), and [the abstract of my PhD dissertation](assets/homepage/YR_PhDAbstract.pdf). My teaching statement is [here](assets/homepage/TS_2024_.pdf).
+My academic CV can be found [here](assets/pdf/YR_CV_General_2025_June.pdf). For more on my research, see [my latest research statement](assets/homepage/RS_General_2024Feb.pdf), and [the abstract of my PhD dissertation](assets/homepage/YR_PhDAbstract.pdf). My teaching statement is [here](assets/homepage/TS_General_June2025.pdf).
