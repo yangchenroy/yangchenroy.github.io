@@ -16,12 +16,12 @@ Monsoon semester 2023, Deccan College Post-Graduate and Research Institute
 
 | Topics 	| Teaching Material |
 |---	|---	|
-| Lecture 1: Introduction to Syntax 	| <p><a href="assets/teaching/1_IntroductionToSyntax.pdf">slides</a></p> |
+| Lecture 1: Introduction to Syntax 	| [slides](assets/teaching/deccan/1_IntroductionToSyntax.pdf) |
 | Lectures 2 & 3: Preliminaries 	| slides from Andrew Carnie's 2006 textbook	|
-| Lectures 4, 5 & 6: Grammatical classes 	| [slides](assets/teaching/deccan/4to6-GrammaticalClasses.pdf)  	|
+| Lectures 4, 5 & 6: Grammatical classes 	| [slides](assets/teaching/deccan/4to6_GrammaticalClasses.pdf)  	|
 | Lecture 7 : Constructions & Constituents  I	| slides from Andrew Carnie's 2006 textbook  	| 
-| Lectures 8 to 12 : Constructions & Constituents II 	| [slides](assets/teaching/deccan/8to12-Constructions&Constituents.pdf)  	| 
-| Lecture 13 : The morphology and syntax interface 	| [slides](assets/teaching/deccan/13_Morphology&SyntaxInterface.pdf)  	| 
+| Lectures 8 to 12 : Constructions & Constituents II 	| [slides](assets/teaching/deccan/8to12_ConstructionsConstituents.pdf)  	| 
+| Lecture 13 : The morphology and syntax interface 	| [slides](assets/teaching/deccan/13_MorphologySyntaxInterface.pdf)  	| 
 
 <br/>
 <br/>
