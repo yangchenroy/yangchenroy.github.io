@@ -7,69 +7,19 @@ nav: true
 nav_order: 4
 ---
 
+**Listening and Writing Skills I**
 
+[Level: undergraduate] 
+Monsoon semester 2024, Language Learning Centre, Indian Institute of Technology Delhi  
 
-** Morphology & Syntax **
-
-[Level: Masters] (Co-taught with Rahul Mhaiskar)  
-Monsoon semester 2023, Deccan College Post-Graduate and Research Institute  
-
-
-| Modules 	| Teaching Material |
+| Topics 	| Teaching Material |
 |---	|---	|
-| Module 1: Introduction to Syntax 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/1_IntroductionToSyntax.pdf) |
-| Module 2: Preliminaries 	| slides from Andrew Carnie's 2006 textbook	|
-| Module 3: Grammatical classes 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/4to6_GrammaticalClasses.pdf)  	|
-| Module 4 : Constructions & Constituents  I	| slides from Andrew Carnie's 2006 textbook  	| 
-| Module 5 : Constructions & Constituents II 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/8to12_ConstructionsConstituents.pdf)  	| 
-| Module 6 : The morphology and syntax interface 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/13_MorphologySyntaxInterface.pdf)  	| 
+| Module 05 (Type 1): English articles: Their distribution and function	| [handout](https://drive.google.com/file/d/1-2yyyayPO1GEC6LXnhAvWpXrV5XiUG__/view?usp=sharing)  	|
 
 <br/>
 <br/>
 
-** Phonology **
-
-[Level: Masters] (Co-taught with Rahul Mhaiskar and Pramod K. Pandey)  
-Winter semester 2022, Deccan College Post-Graduate and Research Institute 
- 
-
-| Modules 	| Teaching Material 	|
-|---	|---	|
-| Module 2: Distinctive Feature Theory 	| [slides](https://drive.google.com/file/d/1dUvi3jy1xS-aeS67rH9g0Co5YNXP80o2/view?usp=drivesdk)  	|
-| Module 3: Generative Phonology: Linear Model 	| [slides](https://drive.google.com/file/d/11SFc4OFstq3KOQslA2r82BINx5BLzcAS/view?usp=drivesdk)  	|
-| Module 4: Constraints on Phonological Rules  	| [slides](https://drive.google.com/file/d/1Nw-YdzSx-m7X6r-pY8yIhrah2xOkno2S/view?usp=drivesdk)  	|
-| Module 5: Post-SPE Linear Models  	| [slides](https://drive.google.com/file/d/1D1OCsxSfrsftC2GrhCX-TElQucY7So3Q/view?usp=drivesdk)  	|  
-
-
-<br/>
-<br/>
-
-
-** Introduction to Linguistics **
-
-[Level: Undergraduate] (Co-taught with Shivani Banerjee and Aseema Karandikar)  
-Monsoon semester 2020, Jawaharlal Nehru University  
-
-You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGssEyX7mmfz1AFJtCAnIy/view?usp=drivesdk).
-
-|  Topics 	|  Teaching Material 	|
-|---	|---	|
-| Module 1: Language – The most human thing about us  	| [slides](https://drive.google.com/file/d/1o-HNheFWdJO1SwOtOrG6jnvfolS5um6n/view?usp=drivesdk)   	|
-| Module 3: Syntax (Parts I, II and III)   	| [slides](https://drive.google.com/file/d/1eegGmaGyVJDNhZuQsiwk1irKEwiiYPhr/view?usp=drivesdk)   	|
-| Module 5: Language Acquisition  	| [slides](https://drive.google.com/file/d/197M1zXhsSRmJXuw8LsVQe6V6hFxN6VoX/view?usp=drivesdk)   	|
-| Module 7: Language and the Human Brain   	| [slides](https://drive.google.com/file/d/1LJbyVRTvCP_W4abJWqy368a9GILq3Z9z/view?usp=drivesdk)  	|  
-
-<br/>
-<br/>
-
-** Growing Language: A workshop on language acquisition research from a generative perspective **
-
-[Level: Masters and PhD] (Co-taught with Benu Pareek)  
-Winter semester 2020, Centre for Linguistics, Jawaharlal Nehru University   
-
-The workshop handout is [here](https://drive.google.com/file/d/1oQkZQmjuB18j-CaccfUp73zILwN2SNKg/view?usp=drivesdk).
-
-** Listening and Writing Skills II **
+**Listening and Writing Skills II**
 
 [Level: undergraduate]
 Winter semester 2024, Language Learning Centre, Indian Institute of Technology Delhi  
@@ -92,13 +42,63 @@ Winter semester 2024, Language Learning Centre, Indian Institute of Technology D
 <br/>
 <br/>
 
-** Listening and Writing Skills I **
+**Morphology & Syntax**
 
-[Level: undergraduate] 
-Monsoon semester 2024, Language Learning Centre, Indian Institute of Technology Delhi  
+[Level: Masters] (Co-taught with Rahul Mhaiskar)  
+Monsoon semester 2023, Deccan College Post-Graduate and Research Institute  
 
-| Topics 	| Teaching Material |
+
+| Modules 	| Teaching Material |
 |---	|---	|
-| Module 05 (Type 1): English articles: Their distribution and function	| [handout](https://drive.google.com/file/d/1-2yyyayPO1GEC6LXnhAvWpXrV5XiUG__/view?usp=sharing)  	|
+| Module 1: Introduction to Syntax 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/1_IntroductionToSyntax.pdf) |
+| Module 2: Preliminaries 	| slides from Andrew Carnie's 2006 textbook	|
+| Module 3: Grammatical classes 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/4to6_GrammaticalClasses.pdf)  	|
+| Module 4 : Constructions & Constituents  I	| slides from Andrew Carnie's 2006 textbook  	| 
+| Module 5 : Constructions & Constituents II 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/8to12_ConstructionsConstituents.pdf)  	| 
+| Module 6 : The morphology and syntax interface 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/13_MorphologySyntaxInterface.pdf)  	| 
 
+<br/>
+<br/>
+
+**Phonology**
+
+[Level: Masters] (Co-taught with Rahul Mhaiskar and Pramod K. Pandey)  
+Winter semester 2022, Deccan College Post-Graduate and Research Institute 
+ 
+
+| Modules 	| Teaching Material 	|
+|---	|---	|
+| Module 2: Distinctive Feature Theory 	| [slides](https://drive.google.com/file/d/1dUvi3jy1xS-aeS67rH9g0Co5YNXP80o2/view?usp=drivesdk)  	|
+| Module 3: Generative Phonology: Linear Model 	| [slides](https://drive.google.com/file/d/11SFc4OFstq3KOQslA2r82BINx5BLzcAS/view?usp=drivesdk)  	|
+| Module 4: Constraints on Phonological Rules  	| [slides](https://drive.google.com/file/d/1Nw-YdzSx-m7X6r-pY8yIhrah2xOkno2S/view?usp=drivesdk)  	|
+| Module 5: Post-SPE Linear Models  	| [slides](https://drive.google.com/file/d/1D1OCsxSfrsftC2GrhCX-TElQucY7So3Q/view?usp=drivesdk)  	|  
+
+
+<br/>
+<br/>
+
+
+**Introduction to Linguistics**
+
+[Level: Undergraduate] (Co-taught with Shivani Banerjee and Aseema Karandikar)  
+Monsoon semester 2020, Jawaharlal Nehru University  
+
+You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGssEyX7mmfz1AFJtCAnIy/view?usp=drivesdk).
+
+|  Topics 	|  Teaching Material 	|
+|---	|---	|
+| Module 1: Language – The most human thing about us  	| [slides](https://drive.google.com/file/d/1o-HNheFWdJO1SwOtOrG6jnvfolS5um6n/view?usp=drivesdk)   	|
+| Module 3: Syntax (Parts I, II and III)   	| [slides](https://drive.google.com/file/d/1eegGmaGyVJDNhZuQsiwk1irKEwiiYPhr/view?usp=drivesdk)   	|
+| Module 5: Language Acquisition  	| [slides](https://drive.google.com/file/d/197M1zXhsSRmJXuw8LsVQe6V6hFxN6VoX/view?usp=drivesdk)   	|
+| Module 7: Language and the Human Brain   	| [slides](https://drive.google.com/file/d/1LJbyVRTvCP_W4abJWqy368a9GILq3Z9z/view?usp=drivesdk)  	|  
+
+<br/>
+<br/>
+
+**Growing Language: A workshop on language acquisition research from a generative perspective**
+
+[Level: Masters and PhD] (Co-taught with Benu Pareek)  
+Winter semester 2020, Centre for Linguistics, Jawaharlal Nehru University   
+
+The workshop handout is [here](https://drive.google.com/file/d/1oQkZQmjuB18j-CaccfUp73zILwN2SNKg/view?usp=drivesdk).
 
