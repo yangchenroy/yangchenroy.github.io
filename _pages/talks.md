@@ -41,6 +41,6 @@ Agreement in Gaddi: A distributed morphology approach. The International Confere
 
 Mapping the variation in the anaphora licensing strategies of adult speakers of Bangla. The Dependency in Syntactic Covariance (DISCo) workshop. Universitat Leipzig, Leipzig. April 2019. [[poster]](). 
 
-Gaddi Case. Students’ Conference of Linguistics in India (SCONLI), Jadavpur University, Kolkata. January 2017. (Joint work with Prativa Chakraborty
+Gaddi Case. Students’ Conference of Linguistics in India (SCONLI), Jadavpur University, Kolkata. January 2017. (Joint work with Prativa Chakraborty)
 
 The Phonological Distribution of Malayalam Dative Case. The International Conference of the Linguistics Society of India (ICOLSI) 37. Jawaharlal Nehru University, Delhi. October 2015. (joint work with Anjali Nair)

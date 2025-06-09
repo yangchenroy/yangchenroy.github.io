@@ -9,19 +9,27 @@ nav_order: 4
 
 **Listening and Writing Skills I**
 
-[Level: undergraduate] 
+[Level: undergraduate, Course Design: Pre-given] 
 Monsoon semester 2024, Language Learning Centre, Indian Institute of Technology Delhi  
 
 | Topics 	| Teaching Material |
 |---	|---	|
-| Module 05 (Type 1): English articles: Their distribution and function	| [handout](https://drive.google.com/file/d/1-2yyyayPO1GEC6LXnhAvWpXrV5XiUG__/view?usp=sharing)  	|
+| Module 1: Common grammatical errors	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week01_CommonGrammaticalErrors.pdf)  	|
+| Module 2: Noun phrases	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week02_NounPhrases.pdf)  	|
+| Module 3: Vocabulary building strategies I	| [handout]()  	|
+| Module 4: Prepositions	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week04_Prepositions.pdf)  	|
+| Module 5: Articles 	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week05_Articles.pdf)  	|
+| Module 6: Tense and Aspect	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week06_Tense_Aspect.pdf)  	|
+| Module 7: Vocabulary building strategies II	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week07_Vocabulary_II.pdf)  	|
 
-<br/>
+
+
+
 <br/>
 
 **Listening and Writing Skills II**
 
-[Level: undergraduate]
+[Level: undergraduate, Course Design: Pre-given]
 Winter semester 2024, Language Learning Centre, Indian Institute of Technology Delhi  
 
 | Topics 	| Teaching Material |
@@ -40,11 +48,10 @@ Winter semester 2024, Language Learning Centre, Indian Institute of Technology D
 | Module 11: Profiling a group contesting elections	| [handout](https://drive.google.com/file/d/11hsguImPplq2dM_9sJo5am2NUT8X4Daa/view?usp=drive_link)  	|
 
 <br/>
-<br/>
 
 **Morphology & Syntax**
 
-[Level: Masters] (Co-taught with Rahul Mhaiskar)  
+[Level: Masters, Course Design: Pre-given] (Co-taught with Rahul Mhaiskar)  
 Monsoon semester 2023, Deccan College Post-Graduate and Research Institute  
 
 
@@ -58,11 +65,10 @@ Monsoon semester 2023, Deccan College Post-Graduate and Research Institute
 | Module 6 : The morphology and syntax interface 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/MorphoSyntax/13_MorphologySyntaxInterface.pdf)  	| 
 
 <br/>
-<br/>
 
 **Phonology**
 
-[Level: Masters] (Co-taught with Rahul Mhaiskar and Pramod K. Pandey)  
+[Level: Masters, Course Design: Pre-given] (Co-taught with Rahul Mhaiskar and Pramod K. Pandey)  
 Winter semester 2022, Deccan College Post-Graduate and Research Institute 
  
 
@@ -75,12 +81,10 @@ Winter semester 2022, Deccan College Post-Graduate and Research Institute
 
 
 <br/>
-<br/>
-
 
 **Introduction to Linguistics**
 
-[Level: Undergraduate] (Co-taught with Shivani Banerjee and Aseema Karandikar)  
+[Level: Undergraduate] (Course designed and co-taught with Shivani Banerjee and Aseema Karandikar)  
 Monsoon semester 2020, Jawaharlal Nehru University  
 
 You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGssEyX7mmfz1AFJtCAnIy/view?usp=drivesdk).
@@ -92,7 +96,6 @@ You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGss
 | Module 5: Language Acquisition  	| [slides](https://drive.google.com/file/d/197M1zXhsSRmJXuw8LsVQe6V6hFxN6VoX/view?usp=drivesdk)   	|
 | Module 7: Language and the Human Brain   	| [slides](https://drive.google.com/file/d/1LJbyVRTvCP_W4abJWqy368a9GILq3Z9z/view?usp=drivesdk)  	|  
 
-<br/>
 <br/>
 
 **Growing Language: A workshop on language acquisition research from a generative perspective**
