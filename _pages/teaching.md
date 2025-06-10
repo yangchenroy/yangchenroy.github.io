@@ -34,18 +34,18 @@ Winter semester 2024, Language Learning Centre, Indian Institute of Technology D
 
 | Topics 	| Teaching Material |
 |---	|---	|
-| Module 1: Introduction --- Learning languages 	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week01.pdf)  	|
-| Module 2: Personal identity	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week02.pdf)  	|
-| Module 3: Linguistic Ambiguity	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week03.pdf)  	|
-| Module 4: Indian whispers and free-writing	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week04.pdf)  	|
-| Module 5: Recipes, boardgames & Experiments (Part I)	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week05_RecipesBoardGamesExperiments.pdf)  	|
-| Module 6: Recipes, boardgames & Experiments (Part II)	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week06.pdf)  	|
-| Module 7: "Who we are" and Claudia Goldin on Freakonomics Radio	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week07.pdf)  	|
-| Module 8: Identifying cohesion and coherence in writing - I	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week08.pdf)  	|
-| Module 9: Identifying cohesion and coherence in writing - II | [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week09.pdf)  	|
-| Module 10 (Type 1): Critical reading of Fiction (with "Lamb to the slaughter")	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week11_Fiction.pdf)  	|
-| Module 10 (Type 2): Critical reading of Non-Fiction (with "What is math?")	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week11_NonFiction.pdf)  	|
-| Module 11: Profiling a group contesting elections	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week12.pdf)  	|
+| Module 1: Introduction --- Learning languages 	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week01.pdf)  	|
+| Module 2: Personal identity	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week02.pdf)  	|
+| Module 3: Linguistic Ambiguity	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week03.pdf)  	|
+| Module 4: Indian whispers and free-writing	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week04.pdf)  	|
+| Module 5: Recipes, boardgames & Experiments (Part I)	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week05_RecipesBoardGamesExperiments.pdf)  	|
+| Module 6: Recipes, boardgames & Experiments (Part II)	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week06.pdf)  	|
+| Module 7: "Who we are" and Claudia Goldin on Freakonomics Radio	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week07.pdf)  	|
+| Module 8: Identifying cohesion and coherence in writing - I	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week08.pdf)  	|
+| Module 9: Identifying cohesion and coherence in writing - II | [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week09.pdf)  	|
+| Module 10 (Type 1): Critical reading of Fiction (with "Lamb to the slaughter")	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week11_Fiction.pdf)  	|
+| Module 10 (Type 2): Critical reading of Non-Fiction (with "What is math?")	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week11_NonFiction.pdf)  	|
+| Module 11: Profiling a group contesting elections	| [handout](https://yangchenroy.github.io/assets/teaching/iit/2024_winter/IITD_NLN101_2024_Week12.pdf)  	|
 
 <br/>
 
