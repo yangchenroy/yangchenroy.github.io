@@ -74,10 +74,10 @@ Winter semester 2022, Deccan College Post-Graduate and Research Institute
 
 | Modules 	| Teaching Material 	|
 |---	|---	|
-| Module 2: Distinctive Feature Theory 	| [slides]()  	|
-| Module 3: Generative Phonology: Linear Model 	| [slides]()  	|
-| Module 4: Constraints on Phonological Rules  	| [slides]()  	|
-| Module 5: Post-SPE Linear Models  	| [slides]()  	|  
+| Module 2: Distinctive Feature Theory 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/Phonology/Unit2_DistinctiveFeatureTheory.pdf)  	|
+| Module 3: Generative Phonology: Linear Model 	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/Phonology/Unit3.pdf)  	|
+| Module 4: Constraints on Phonological Rules  	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/Phonology/Unit4_ConstraintsOnPhonologicalRules.pdf)  	|
+| Module 5: Post-SPE Linear Models  	| [slides](https://yangchenroy.github.io/assets/teaching/deccan/Phonology/Unit5)  	|  
 
 
 <br/>
@@ -91,10 +91,10 @@ You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGss
 
 |  Topics 	|  Teaching Material 	|
 |---	|---	|
-| Module 1: Language – The most human thing about us  	| [slides]()   	|
-| Module 3: Syntax (Parts I, II and III)   	| [slides]()   	|
-| Module 5: Language Acquisition  	| [slides]()   	|
-| Module 7: Language and the Human Brain   	| [slides]()  	|  
+| Module 1: Language – The most human thing about us  	| [slides](https://yangchenroy.github.io/assets/teaching/jnu/Module1-Language-TheMostHumanThingAboutUs.pdf)   	|
+| Module 4: Syntax (Parts I, II and III)   	| [slides](https://yangchenroy.github.io/assets/teaching/jnu/Module4-Syntax-1-2-3.pdf)   	|
+| Module 5: Language Acquisition  	| [slides](https://yangchenroy.github.io/assets/teaching/jnu/Module5-LanguageAcquisition.pdf)   	|
+| Module 7: Language and the Human Brain   	| [slides](https://yangchenroy.github.io/assets/teaching/jnu/Module7Languageandthehumanbrain.pdf)  	|  
 
 <br/>
 
@@ -103,5 +103,5 @@ You can find the syllabus [here](https://drive.google.com/file/d/1OocVIkWd1KsGss
 [Level: Masters and PhD] (Co-taught with Benu Pareek)  
 Winter semester 2020, Centre for Linguistics, Jawaharlal Nehru University   
 
-The workshop handout is [here]().
+The workshop handout is [here](https://yangchenroy.github.io/assets/teaching/workshops/2020_GrowingLanguageWorkshop_Handout.pdf).
 
