@@ -19,5 +19,5 @@ social: true  # includes social icons at the bottom of the page
 
 <p align="justify"> Since January 2025 I am a postdoctoral researcher on the European Research Council Synergy Grant project ["Realizing Leibniz's Dream: Child Languages as a Mirror of the Mind"](https://leibnizdream.eu/). </p>
 
-My academic CV can be found [here](https://yangchenroy.github.io/blob/master/assets/homepage/YR_CV_General_2025_June.pdf). For more on my research, see [my research statement from 2024](assets/homepage/RS_General_2024Feb.pdf), and [the abstract of my 2023 PhD dissertation](assets/homepage/YR_PhDAbstract.pdf). My teaching-learning statement is [here](assets/homepage/TS_General_June2025.pdf). 
+My academic CV can be found [here](https://yangchenroy.github.io/assets/homepage/YR_CV_General_2025_June.pdf). For more on my research, see [my research statement from 2024](assets/homepage/RS_General_2024Feb.pdf), and [the abstract of my 2023 PhD dissertation](assets/homepage/YR_PhDAbstract.pdf). My teaching-learning statement is [here](assets/homepage/TS_General_June2025.pdf). 
 
