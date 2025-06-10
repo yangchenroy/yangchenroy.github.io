@@ -9,7 +9,7 @@ nav_order: 2
 
 **Under submission (to appear in 2025)** 
 
-<i>A Grammar of Gaddi</i>. Book in the Grammar of World and Minority Languages Series. University College London Press. (co-authored with Anjali Nair, Preeti Kumari, Shreya Mehta and Vyom Sharma). 
+<i>A Grammar of Gaddi</i>. Book in the [Grammar of World and Minority Languages Series](https://uclpress.co.uk/book-series/grammars-of-world-and-minority-languages/). University College London Press. (co-authored with Anjali Nair, Preeti Kumari, Shreya Mehta and Vyom Sharma). 
 
 [Universal grammar and early childhood education: Towards a synergy](https://yangchenroy.github.io/assets/publications/MinatiPandaBook_Kidwai-Pareek-Roy.pdf). Book chapter in <i>From principles to praxis: How linguistic theories interact with language learning and pedagogy</i>. Eds. Panda, M., Mishra, S., & Koczy, J., B. Springer. (co-authored with Ayesha Kidwai and Benu Pareek)
 
