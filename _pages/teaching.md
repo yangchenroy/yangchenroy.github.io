@@ -14,7 +14,7 @@ Monsoon semester 2024, Language Learning Centre, Indian Institute of Technology 
 
 | Topics 	| Teaching Material |
 |---	|---	|
-| Module 1: Common grammatical errors	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week01_CommonGrammaticalErrors.pdf)  	|
+| Module 1: Common grammatical errors	| [handout](https://yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week01_CommonGrammaticalErrors.pdf)  	|
 | Module 2: Noun phrases	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week02_NounPhrases.pdf)  	|
 | Module 3: Vocabulary building strategies I	| [handout]()  	|
 | Module 4: Prepositions	| [handout](https://github.com/yangchenroy/yangchenroy.github.io/blob/master/assets/teaching/iit/2024_monsoon/T1/IITD_NLN100_2024_Week04_Prepositions.pdf)  	|
