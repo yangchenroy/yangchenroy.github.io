@@ -15,7 +15,7 @@ nav_order: 2
 
 **Books/manuscripts**
 
-[<i>Exploring anaphora binding and its acquisition: The view from Bangla and Malayalam</i>](https://shodhganga.inflibnet.ac.in/handle/10603/639648). [Doctoral dissertation]. Jawaharlal Nehru University. New Delhi. 2023. Citation details [here](https://shodhganga.inflibnet.ac.in/handle/10603/639648).
+[<i>Exploring anaphora binding and its acquisition: The view from Bangla and Malayalam</i>]. [Doctoral dissertation]. Jawaharlal Nehru University. New Delhi. 2023. Citation information is [here](https://shodhganga.inflibnet.ac.in/handle/10603/639648). [Email me for the revised version as submitted to JNU. The version on Shodhganga is an older one.]
 
 [<i>Tense, Aspect and Mood (TAM) in Gaddi</i>](). [MA Linguistics Field Methods Report]. Jawaharlal Nehru University. 2016. 
 
