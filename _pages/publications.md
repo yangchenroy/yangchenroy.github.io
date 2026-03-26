@@ -12,7 +12,6 @@ nav_order: 2
 [Universal grammar and early childhood education: Towards a synergy](https://link.springer.com/chapter/10.1007/978-3-031-92938-0_11). Book chapter in <i>Exploring Interactions Between Linguistic Theories, Language Learning and Pedagogy</i>. Eds. Panda, M., Mishra, S., & Koczy, J., B. Springer. (co-authored with Ayesha Kidwai and Benu Pareek). 2026.
 
 [<i>Exploring anaphora binding and its acquisition: The view from Bangla and Malayalam</i>]. [Doctoral dissertation]. Jawaharlal Nehru University. New Delhi. 2023. Citation information is [here](https://shodhganga.inflibnet.ac.in/handle/10603/639648). [Email me for the revised version as submitted to JNU. The version on Shodhganga is an older one.]
->>>>>>> 0354c8833922b1cfb78185392bf7e7f947a5861b
 
 [Child Language Acquisition: Cross-linguistic Evidence for Universal Grammar](https://yangchenroy.github.io/assets/publications/AgnihotriBook_Kidwai-Pareek-Roy.pdf). Book chapter in <i>Language, Mind, Society: A Reader for Students of Language and Education</i>. Eds. Agnihotri, R.K. & Kumar, R. Orient Blackswan. (co-authored with Ayesha Kidwai and Benu Pareek). 2022. 
 
