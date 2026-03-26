@@ -7,23 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-**Under submission (to appear)** 
+<i>A Grammar of Gaddi</i>. Book in the [Grammar of World and Minority Languages Series](https://uclpress.co.uk/book/a-grammar-of-gaddi/). University College London Press. (co-authored with Preeti Kumari, Anjali Nair, Shreya Mehta and Vyom Sharma). 2026.
 
-<i>A Grammar of Gaddi</i>. Book in the [Grammar of World and Minority Languages Series](https://uclpress.co.uk/book-series/grammars-of-world-and-minority-languages/). University College London Press. (co-authored with Preeti Kumari, Anjali Nair, Shreya Mehta and Vyom Sharma). 
+[Universal grammar and early childhood education: Towards a synergy](https://link.springer.com/chapter/10.1007/978-3-031-92938-0_11). Book chapter in <i>Exploring Interactions Between Linguistic Theories, Language Learning and Pedagogy</i>. Eds. Panda, M., Mishra, S., & Koczy, J., B. Springer. (co-authored with Ayesha Kidwai and Benu Pareek). 2026.
 
-[Universal grammar and early childhood education: Towards a synergy](https://yangchenroy.github.io/assets/publications/MinatiPandaBook_Kidwai-Pareek-Roy.pdf). Book chapter in <i>From principles to praxis: How linguistic theories interact with language learning and pedagogy</i>. Eds. Panda, M., Mishra, S., & Koczy, J., B. Springer. (co-authored with Ayesha Kidwai and Benu Pareek)
-
-**Books/manuscripts**
-
-<<<<<<< HEAD
-[<i>Exploring anaphora binding and its acquisition: The view from Bangla and Malayalam</i>](https://shodhganga.inflibnet.ac.in/handle/10603/639648). [Doctoral dissertation]. Jawaharlal Nehru University. New Delhi. 2023. [Email me for a copy]. 
-=======
 [<i>Exploring anaphora binding and its acquisition: The view from Bangla and Malayalam</i>]. [Doctoral dissertation]. Jawaharlal Nehru University. New Delhi. 2023. Citation information is [here](https://shodhganga.inflibnet.ac.in/handle/10603/639648). [Email me for the revised version as submitted to JNU. The version on Shodhganga is an older one.]
 >>>>>>> 0354c8833922b1cfb78185392bf7e7f947a5861b
-
-[<i>Tense, Aspect and Mood (TAM) in Gaddi</i>](). [MA Linguistics Field Methods Report]. Jawaharlal Nehru University. 2016. 
-
-**Journal articles/book chapters**
 
 [Child Language Acquisition: Cross-linguistic Evidence for Universal Grammar](https://yangchenroy.github.io/assets/publications/AgnihotriBook_Kidwai-Pareek-Roy.pdf). Book chapter in <i>Language, Mind, Society: A Reader for Students of Language and Education</i>. Eds. Agnihotri, R.K. & Kumar, R. Orient Blackswan. (co-authored with Ayesha Kidwai and Benu Pareek). 2022. 
 
@@ -38,10 +27,11 @@ nav_order: 2
 
 **Unpublished articles/ squibs**
 
-[Gaddi Syntax](https://yangchenroy.github.io/assets/publications/Gaddi_Syntax.pdf). [<i>FieldLinguistics@JNU</i>](https://web.archive.org/web/20230925142444/https://www.flingjnu.com/). 2019. (co-authored with Prativa Chakraborty, Pinki Kumari, Preeti Kumari and Vyom Sharma
+[Gaddi Syntax](https://yangchenroy.github.io/assets/publications/Gaddi_Syntax.pdf). [<i>FieldLinguistics@JNU</i>](https://web.archive.org/web/20230925142444/https://www.flingjnu.com/ (co-authored with Prativa Chakraborty, Pinki Kumari, Preeti Kumari and Vyom Sharma. 2019. 
 
 [The history of Dravidian pronouns and reflexives](). Jawaharlal Nehru University. 2018. 
 
+[<i>Tense, Aspect and Mood (TAM) in Gaddi</i>](). [MA Linguistics Field Methods Report]. Jawaharlal Nehru University. 2016. 
 
 **Editor** 
 
