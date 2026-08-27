@@ -21,7 +21,7 @@ As a postdoctoral researcher at Humboldt-Universität zu Berlin, I study child l
 
 My training in theoretical syntax and morphology also grounds my documentation work: I recently co-authored A Grammar of Gaddi (UCL Press), a descriptive grammar of an under-documented Himalayan language.
 
-I trained as a linguist at Jawaharlal Nehru University and The English and Foreign Languages University Hyderabad. My academic CV can be found [here](assets/homepage/YR_CV_General_2025_June.pdf). 
+I trained as a linguist at Jawaharlal Nehru University and The English and Foreign Languages University Hyderabad. My academic CV can be found [here](assets/homepage/YR-CV-2026.pdf). 
 
 Feel free to get in touch at yangchen.roy@hu-berlin.de. 
 
