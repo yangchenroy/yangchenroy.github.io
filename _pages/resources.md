@@ -23,7 +23,7 @@ This page has field-work questionnaires, language-experiment designs, language b
 [Adult comprehension experiment for pronouns and reflexives in object and possessive positions](https://yangchenroy.github.io/assets/resources/adult-language-experiments/Roy-2018-Adult-Language-Comprehension-Task-Bangla-Pronouns-Reflexives.pdf)  
 
 
-[Child production experiments](https://yangchenroy.github.io/assets/resources/child-language-experiments/child-production-reflexive-pronoun-object-possessive.pdf) for 
+[Child production experiments](https://yangchenroy.github.io/assets/resources/child-language-experiments/production-child-pronoun-reflexive/child-production-reflexive-pronoun-object-possessive.pdf) for 
 (1) object pronouns and reflexive 
 (2) alienable and inalienable possessive pronouns and reflexives 
 (3) pronouns/reflexives under contexts of contrast 
@@ -32,8 +32,8 @@ This page has field-work questionnaires, language-experiment designs, language b
 **Language Boardgame designs**
 
 SatzBau!: A boardgame for German language beginners
-(1) [printable word cards](https://yangchenroy.github.io/assets/resources/language-board-games/CardToPrint_A1.1_Vocab.xlsx) 
-(2) [Game rules](https://yangchenroy.github.io/assets/resources/language-board-games/Rules_eng_SentenceMaking_A1.1.pdf) 
+(1) [printable word cards](https://yangchenroy.github.io/assets/resources/language-board-games/german-level-a1/CardToPrint_A1.1_Vocab.xlsx) 
+(2) [Game rules](https://yangchenroy.github.io/assets/resources/language-board-games/german-level-a1/Rules_eng_SentenceMaking_A1.1.pdf) 
 
 
 
